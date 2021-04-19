@@ -10,4 +10,4 @@ mingw32-make.exe
 ```
 
 #### dependencies
-    SDL
+    SDL2
